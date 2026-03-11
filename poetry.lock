@@ -121,6 +121,17 @@ files = [
 ]
 
 [[package]]
+name = "logging"
+version = "0.4.9.6"
+description = "A logging module for Python"
+optional = false
+python-versions = "*"
+groups = ["main"]
+files = [
+    {file = "logging-0.4.9.6.tar.gz", hash = "sha256:26f6b50773f085042d301085bd1bf5d9f3735704db9f37c1ce6d8b85c38f2417"},
+]
+
+[[package]]
 name = "numpy"
 version = "2.4.3"
 description = "Fundamental package for array computing in Python"
@@ -627,4 +638,4 @@ zstd = ["backports-zstd (>=1.0.0) ; python_version < \"3.14\""]
 [metadata]
 lock-version = "2.1"
 python-versions = ">=3.12"
-content-hash = "48015a9124c5ab5f740d7c1936fc4a6a6c4793ac13f84797e1f584129562eb28"
+content-hash = "ca05b169aca78bfa92078c47d03fd047aa687e03fd4e932284c3124b0bf273ef"

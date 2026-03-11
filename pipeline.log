@@ -1,0 +1,12 @@
+2026-03-11 19:33:58,305 [INFO] Iniciando pipeline ✅
+2026-03-11 19:33:58,305 [INFO] Acessando cliente s3... ✅
+2026-03-11 19:33:58,357 [INFO] Buscando arquivos parquet no bucket amz-s3-pos ✅
+2026-03-11 19:33:58,895 [INFO] Lendo arquivo clientes.parquet ✅
+2026-03-11 19:34:04,718 [INFO] Tabela clientes criada com sucesso! 50 registros inseridos ✅
+2026-03-11 19:34:04,718 [INFO] Lendo arquivo preco_competidores.parquet ✅
+2026-03-11 19:34:08,377 [INFO] Tabela preco_competidores criada com sucesso! 728 registros inseridos ✅
+2026-03-11 19:34:08,377 [INFO] Lendo arquivo produtos.parquet ✅
+2026-03-11 19:34:11,702 [INFO] Tabela produtos criada com sucesso! 215 registros inseridos ✅
+2026-03-11 19:34:11,702 [INFO] Lendo arquivo vendas.parquet ✅
+2026-03-11 19:34:16,219 [INFO] Tabela vendas criada com sucesso! 3020 registros inseridos ✅
+2026-03-11 19:34:16,219 [INFO] Pipeline Finalizado ✅
