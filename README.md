@@ -4,7 +4,7 @@
 
 **Obtendo acesso a um datalake s3 da AWS.**
 
-Objetivo inical fazer a extração e load destes arquivos .parquet encontrados para tabelas em um banco de dados relacional.
+Objetivo inicial fazer a extração e load destes arquivos .parquet encontrados para tabelas em um banco de dados relacional.
 
 
 **Bibliotecas Utilizadas:**
